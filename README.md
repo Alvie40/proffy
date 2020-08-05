@@ -72,6 +72,7 @@ $ chdir web
 
 # Installing depencies
 $ yarn add @types/react-router-dom -D
+$ yarn add axios
 ```
 
 ##### Server 
